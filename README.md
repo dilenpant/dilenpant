@@ -1,7 +1,7 @@
 ### Hi there, I'm Dilendra - [dilendra][website] 👋
 
 ## I'm a Developer!
-- 🔭 I’m currently working for a [FNP][fnp]
+- 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer's
 - 🥅 2020 Goals: Start contribute to Open Source projects
