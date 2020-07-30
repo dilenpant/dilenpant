@@ -1,7 +1,7 @@
 ### Hi there, I'm Dilendra - [dilendra][website] 👋
 
 ## I'm a Developer!
-- 🔭 I’m currently working on a [FNP][website]!
+- 🔭 I’m currently working for a [FNP][fnp]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Start contribute to Open Source projects
@@ -46,3 +46,4 @@
 [youtube]: https://youtube.com/dilendraprasadpantze
 [instagram]: https://instagram.com/dilenpant
 [linkedin]: https://linkedin.com/in/dilendra
+[fnp]: https://fnp.com
