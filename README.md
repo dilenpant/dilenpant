@@ -1,4 +1,4 @@
-### Nameste..!🙏, I'm Dile 👋
+### Nameste..🙏
 
 ## I'm a Developer!
 - 🔭 I’m currently working on something cool 😉
