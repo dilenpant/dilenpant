@@ -1,4 +1,4 @@
-### Hi there, I'm Dilendra - [dilendra][website] 👋
+### Nameste..!🙏, I'm Dile 👋
 
 ## I'm a Developer!
 - 🔭 I’m currently working on something cool 😉
