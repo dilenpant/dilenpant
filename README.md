@@ -1,4 +1,4 @@
-### Namaste🙏...!
+### Namaste 🙏
 
 ## I'm a Developer!
 - 🔭 I’m currently working on something cool 😉
