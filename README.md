@@ -48,5 +48,5 @@
 [linkedin]: https://linkedin.com/in/dilendra
 [fnp]: https://fnp.com
 
-| <a href="https://github.com/dilenpant/github-readme-stats-1"><img align="center" src="https://github-readme-stats-1.vercel.app/api?username=dilenpant&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Dilen's github stats" /></a> | <a href="https://github.com/dilenpant/github-readme-stats-1"><img align="center" src="https://github-readme-stats-1.vercel.app/api/top-langs/?username=dilenpant&layout=compact&theme=buefy&hide_border=false" /></a> |
+| <a href="https://github.com/dilenpant/github-readme-stats-1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dilenpant&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Dilen's github stats" /></a> | <a href="https://github.com/dilenpant/github-readme-stats-1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilenpant&layout=compact&theme=buefy&hide_border=false" /></a> |
 | ------------- | ------------- |
