@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[<img align="left" alt="dilendra.neocities.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<a href="https://dilendra.neocities.org" target="blank"><img align="center" src="https://dilendra.neocities.org/svg/dp-logo.png" alt="Dilendra" height="30" width="40" /></a>
 <a href="https://twitter.com/dilenpant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilenpant" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dilendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilendra" height="30" width="40" /></a>
 <a href="https://fb.com/isdilen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isdilen" height="30" width="40" /></a>
