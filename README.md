@@ -15,6 +15,7 @@
 <a href="https://fb.com/isdilen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isdilen" height="30" width="40" /></a>
 <a href="https://instagram.com/dilenpant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilenpant" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dilendraprasadpantze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dilendraprasadpantze" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=dilenpant&label=Profile%20views&color=0e75b6&style=flat" alt="dilenpant" />
 </p>
 
 
@@ -29,5 +30,5 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilenpant&" alt="dilenpant" width="250"/> </p>
 
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilenpant&label=Profile%20views&color=0e75b6&style=flat" alt="dilenpant" />
+<p align="left">
 <a href="https://twitter.com/dilenpant" target="blank"><img src="https://img.shields.io/twitter/follow/dilenpant?logo=twitter&style=for-the-badge" alt="dilenpant" /></a> </p>
