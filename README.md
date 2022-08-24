@@ -24,9 +24,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilenpant&show_icons=true&locale=en&layout=compact" alt="dilenpant"/>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilenpant&show_icons=true&locale=en" alt="dilenpant"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilenpant&" alt="dilenpant"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilenpant&show_icons=true&locale=en&layout=compact" alt="dilenpant" width="250"/>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilenpant&show_icons=true&locale=en" alt="dilenpant" width="250"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilenpant&" alt="dilenpant" width="250"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilenpant&label=Profile%20views&color=0e75b6&style=flat" alt="dilenpant" /> </p>
 <p align="left"> <a href="https://twitter.com/dilenpant" target="blank"><img src="https://img.shields.io/twitter/follow/dilenpant?logo=twitter&style=for-the-badge" alt="dilenpant" /></a> </p>
