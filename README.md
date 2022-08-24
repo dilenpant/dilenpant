@@ -7,6 +7,12 @@
 - 🥅 2022 Goals: Start contribute to Open Source projects
 - ⚡ Fun fact: I love to read books, cooking and riding ❤️
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilenpant&label=Profile%20views&color=0e75b6&style=flat" alt="dilenpant" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilenpant" alt="dilenpant" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/dilenpant" target="blank"><img src="https://img.shields.io/twitter/follow/dilenpant?logo=twitter&style=for-the-badge" alt="dilenpant" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dilendra.neocities.org" target="blank"><img align="center" src="https://dilendra.neocities.org/svg/dp-logo.png" alt="Dilendra" height="30" width="40" /></a>
@@ -24,12 +30,8 @@
 
 
 
-[website]: https://dilendra.neocities.org/
-[twitter]: https://twitter.com/dilenpant
-[youtube]: https://youtube.com/dilendraprasadpantze
-[instagram]: https://instagram.com/dilenpant
-[linkedin]: https://linkedin.com/in/dilendra
-[fnp]: https://fnp.com
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilenpant&show_icons=true&locale=en&layout=compact" alt="dilenpant" /></p>
 
-| <a href="https://github.com/dilenpant/github-readme-stats-1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dilenpant&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Dilen's github stats" /></a> | <a href="https://github.com/dilenpant/github-readme-stats-1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilenpant&layout=compact&theme=buefy&hide_border=false" /></a> |
-| ------------- | ------------- |
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilenpant&show_icons=true&locale=en" alt="dilenpant" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilenpant&" alt="dilenpant" /></p>
