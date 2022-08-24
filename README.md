@@ -1,14 +1,10 @@
-### Namaste 🙏😊
-
+### Namaste 🙏😊 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilenpant&label=Profile%20views&color=0e75b6&style=flat" alt="dilenpant" /> </p>
 ## I'm a Developer!
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer's
 - 🥅 2022 Goals: Start contribute to Open Source projects
 - ⚡ Fun fact: I love to read books, cooking and riding ❤️
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilenpant&label=Profile%20views&color=0e75b6&style=flat" alt="dilenpant" /> </p>
-<p align="left"> <a href="https://twitter.com/dilenpant" target="blank"><img src="https://img.shields.io/twitter/follow/dilenpant?logo=twitter&style=for-the-badge" alt="dilenpant" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilenpant&show_icons=true&locale=en&layout=compact" alt="dilenpant" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilenpant&show_icons=true&locale=en" alt="dilenpant" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilenpant&" alt="dilenpant" /></p>
+
+
+<p align="left"> <a href="https://twitter.com/dilenpant" target="blank"><img src="https://img.shields.io/twitter/follow/dilenpant?logo=twitter&style=for-the-badge" alt="dilenpant" /></a> </p>
