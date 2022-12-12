@@ -1,10 +1,10 @@
 ### Namaste 🙏😊
 
 ## I'm a Developer!
-- 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer's
-- ⚡ Fun fact: I love to read books, cooking and riding ❤️
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate with other developer's.
+- ⚡ Fun fact: I love to read books, cooking and riding.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
